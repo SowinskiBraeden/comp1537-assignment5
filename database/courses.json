@@ -1,0 +1,50 @@
+[ 
+ {
+    "id": "1510",
+    "department": "comp",
+    "name": "Programming Methods",
+    "description": "This hands-on course is the foundation for all future programming courses and complements COMP 1537 and COMP 1800. This course introduces the fundamental concepts of programming including design, development, testing, debugging simple programs, as well as error-handling, and problem solving.",
+    "term": 1,
+    "credits": 7.0
+  },
+  {
+    "id": "1116",
+    "department": "comm",
+    "name": "Business Communication",
+    "description": "Information technology professionals spend time each day communicating orally and in writing with their supervisors, colleagues and clients. As problem-solvers and entrepreneurs in industry, you need to communicate quickly, clearly, and effectively. This course will teach you how to be a professional and efficient communicator at work. You will write effective business correspondence and instructions and deliver a formal oral presentation to your set. The first term establishes the principles and basic patterns on which you will build more advanced applications in the second term.",
+    "term": 1,
+    "credits": 4.0
+  },
+  {
+    "id": "1113",
+    "department": "comp",
+    "name": "Applied Mathematics",
+    "description": "Comp 1113 is partially discrete mathematics, partially an introduction to linear equations. The purpose of this course is to give a strong foundation for future technical and programming courses. The course is divided into three parts: (1) Boolean algebra and design of logic circuits; (2) number systems and data representation; and (3) functions, linear equations, vectors and matrices.",
+    "term": 1,
+    "credits": 4.0
+  },
+  {
+    "id": "1537",
+    "department": "comp",
+    "name": "Web Development 1",
+    "description": "This course focuses on programming both front and back end for web application development using JavaScript on both front-end and back-end development. Topics include AJAX, DOM editing with JavaScript & jQuery, and JSON.",
+    "term": 1,
+    "credits": 4.0
+  },
+  {
+    "id": "1800",
+    "department": "comp",
+    "name": "Projects 1",
+    "description": "Students learn to work in a collaborative environment and complete a small-scale software project: a mobile-friendly web application. The course is focused on developing the essential technical skills that will allow a student to develop a functional web application project. The course takes students through the UX design process which includes creating and administering surveys & interviews, creating personas and user stories, designing wireframes, and performing user tests with a developed implementation that is based on the UX design process. Students will use the Agile methodology to manage the software process. Software management workflow also includes using Git from the command-line for version control basics in a collaborative workflow. Students will apply web technologies such as JavaScript, CSS, and HTML. Data persistence may be optionally achieved using NoSQL data technology solution.",
+    "term": 1,
+    "credits": 4.0
+  },
+  {
+    "id": "1712",
+    "department": "comp",
+    "name": "Business Analysis & System Design",
+    "description": "Business Analysis and Systems Design is the study of concepts, processes and tools that professionals use to plan and develop information systems to industry standards. Students learn how to ask implicit questions, to create and document communication plans and to make better decisions prior to creating a software system. Beginning with an introduction to the Software Development Life Cycle (SDLC), students work in teams to initiate the system process, analyze problems, discover requirements and create a logical design. Topics include: techniques used in the discovery of business requirements, traditional approaches to data and process modelling, entity-relationship diagrams, and an introduction to relational database normalization. Agile life cycles such as Scrum are also introduced and compared to more planned life cycles such as waterfall. By the end of this course, successful participants will be able to use tools and methods commonly used in industry to analyze, design, and implement information systems as confirmed by a term project.",
+    "term": 1,
+    "credits": 4.0
+  }
+]
